@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "StarLight",
+  "base_artist": "LIMELIGHT",
+  "createdAt": "2026-03-10T12:25:04.674508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Starlight",
+      "artist": "Jon Pardi",
+      "has_synced": true,
+      "path": "select/01_Starlight_Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Starlight",
+      "artist": "Logan Ledger",
+      "has_synced": false,
+      "path": "select/02_Starlight_Logan_Ledger.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Safe in the Starlight",
+      "artist": "moistbreezy",
+      "has_synced": true,
+      "path": "select/03_Safe_in_the_Starlight_moistbreezy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Starlight",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/04_Starlight_Muse.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "...Like Starlight Into Day",
+      "artist": "Hammock",
+      "has_synced": true,
+      "path": "select/05_...Like_Starlight_Into_Day_Hammock.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "You Lost the Starlight in Your Eyes",
+      "artist": "Hammock",
+      "has_synced": true,
+      "path": "select/06_You_Lost_the_Starlight_in_Your_Eyes_Hammock.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Lost The Starlight In Your Eyes",
+      "artist": "Hammock",
+      "has_synced": true,
+      "path": "select/07_You_Lost_The_Starlight_In_Your_Eyes_Hammock.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Starlight",
+      "artist": "The Supermen Lovers",
+      "has_synced": false,
+      "path": "select/08_Starlight_The_Supermen_Lovers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lucifer in Starlight",
+      "artist": "Powerwolf",
+      "has_synced": false,
+      "path": "select/09_Lucifer_in_Starlight_Powerwolf.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dancing In The Starlight",
+      "artist": "Mick Jagger",
+      "has_synced": true,
+      "path": "select/10_Dancing_In_The_Starlight_Mick_Jagger.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hoodoo - Starlight Dub",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/11_Hoodoo_-_Starlight_Dub_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hoodoo (Starlight dub)",
+      "artist": "Alison Moyet",
+      "has_synced": false,
+      "path": "select/12_Hoodoo_(Starlight_dub)_Alison_Moyet.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Starlight Scene",
+      "artist": "Yello",
+      "has_synced": true,
+      "path": "select/13_Starlight_Scene_Yello.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Starlight",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/14_Starlight_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Starlight",
+      "artist": "Michael Jackson",
+      "has_synced": true,
+      "path": "select/15_Starlight_Michael_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Starlight (Keep Me Afloat)",
+      "artist": "Martin Garrix feat. DubVision & Shaun Farrugia",
+      "has_synced": true,
+      "path": "select/16_Starlight_(Keep_Me_Afloat)_Martin_Garrix_feat._DubVision_&_Shaun_Farrugia.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Starlight (Keep Me Afloat)",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/17_Starlight_(Keep_Me_Afloat)_Martin_Garrix.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "StarLight",
+      "artist": "LIMELIGHT",
+      "has_synced": false,
+      "path": "select/pl_01_StarLight_LIMELIGHT.txt"
+    }
+  ]
+}
